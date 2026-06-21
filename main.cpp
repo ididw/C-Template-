@@ -8,9 +8,9 @@ using namespace std;
 
 // 定義學生資料結構 
 struct Student {
-    string id;    // 學號 [cite: 39]
-    string name;  // 姓名 [cite: 40]
-    int score;    // 成績 [cite: 41]
+    string id;    // 學號 
+    string name;  // 姓名 
+    int score;    // 成績 
 };
 
 // 五、Template 延伸挑戰題：Template Function - 通用最大值 
